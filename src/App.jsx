@@ -3,7 +3,7 @@ import Layout from "./layout"
 import About from "./pages/About/About"
 import Home from "./pages/Home/Home"
 import LoginPage from "./pages/Login/Login"
-import Signup from "./pages/Signup/page"
+import Signup from "./pages/Signup/Signup"
 import { UserProvider } from "./context/UserContext"
 import AppRoutes from "./routes/AppRoutes"
 
